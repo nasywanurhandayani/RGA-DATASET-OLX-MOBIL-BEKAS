@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+langchain-community
+chromadb
+sentence-transformers
+google-generativeai
